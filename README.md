@@ -47,9 +47,9 @@ Most of my recent work is in **medical imaging** — using object detection arch
 
 ## Stack
 
-**AI / ML** — Python &middot; PyTorch &middot; TensorFlow &middot; OpenCV &middot; Hugging Face &middot; scikit-learn
-**Backend** — Django &middot; FastAPI &middot; PostgreSQL &middot; Docker
-**Frontend** — Next.js &middot; React &middot; TypeScript &middot; Tailwind CSS
+**AI / ML** — Python &middot; PyTorch &middot; TensorFlow &middot; OpenCV &middot; Hugging Face &middot; scikit-learn<br/>
+**Backend** — Django &middot; FastAPI &middot; PostgreSQL &middot; Docker<br/>
+**Frontend** — Next.js &middot; React &middot; TypeScript &middot; Tailwind CSS<br/>
 **Tools** — Git &middot; GitHub Actions &middot; Vercel &middot; Linux
 
 <br/>
