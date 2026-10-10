@@ -1,86 +1,70 @@
-<div align="center">
+<h1 align="center">Md. Masud Rana</h1>
 
-# Md. Masud Rana
+<p align="center">
+  AI/ML Engineer · Computer Vision · Full-Stack Developer<br/>
+  CS undergraduate at IUBAT · Sirajganj, Bangladesh (GMT+6)
+</p>
 
-**AI/ML Engineer &middot; Computer Vision &middot; Full-Stack Developer**
+<p align="center">
+  <a href="https://maashg3l4-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=vercel&logoColor=A78BFA" alt="Portfolio"/></a>
+  <a href="https://huggingface.co/warfazeee"><img src="https://img.shields.io/badge/Hugging%20Face-24292f?style=flat-square&logo=huggingface&logoColor=A78BFA" alt="Hugging Face"/></a>
+  <a href="https://www.linkedin.com/in/md-masud-rana-2037592b7/"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/></a>
+  <a href="mailto:mohammadsohag1256@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=A78BFA" alt="Email"/></a>
+</p>
 
-Building intelligent systems that matter — from medical imaging to production web apps.
-
-Sirajganj, Bangladesh &nbsp;&middot;&nbsp; GMT+6
-
-<br/>
-
-<a href="https://maashg3l4-portfolio.vercel.app">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=520&height=40&lines=AI%2FML+Engineer;Computer+Vision+Researcher;Full-Stack+Developer" alt="role typing animation" />
-</a>
-
-<br/>
-
-[Portfolio](https://maashg3l4-portfolio.vercel.app) &nbsp;&middot;&nbsp;
-[GitHub](https://github.com/maashg3l4) &nbsp;&middot;&nbsp;
-[Hugging Face](https://huggingface.co/warfazeee) &nbsp;&middot;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/md-masud-rana-2037592b7/) &nbsp;&middot;&nbsp;
-[Email](mailto:mohammadsohag1256@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" alt="neural network interface" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDkwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnR3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iOTAwIiB5Mj0iMjAwIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzBBMEEwRiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxMjBCMjQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Im5vZGVHcmFkIiBjeD0iMC4zNSIgY3k9IjAuMzUiIHI9IjAuNzUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNDOUI4RkYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjU1IiBzdG9wLWNvbG9yPSIjOEI1Q0Y2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzVCMjFCNiIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZWRnZUdyYWQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjOEI1Q0Y2IiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjUiIHN0b3AtY29sb3I9IiNBNzhCRkEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzhCNUNGNiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTYwJSIgeT0iLTYwJSIgd2lkdGg9IjIyMCUiIGhlaWdodD0iMjIwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMuMiIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMjAwIiByeD0iMTYiIGZpbGw9InVybCgjYmdHcmFkKSIvPgogIDxyZWN0IHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iODk5IiBoZWlnaHQ9IjE5OSIgcng9IjE1LjUiIHN0cm9rZT0iIzI3MjAzRCIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogIDwhLS0gbGF5ZXIgbm9kZSBwb3NpdGlvbnMgLS0+CiAgPCEtLSBMMSB4PTExMCAgTDIgeD0zNDAgIEwzIHg9NTcwICBMNCB4PTc5MCAtLT4KCiAgPGcgaWQ9ImVkZ2VzIiBzdHJva2U9IiM0QzNFN0EiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC40NSI+CiAgICA8IS0tIEwxKDMpIC0+IEwyKDQpIC0tPgogICAgPGxpbmUgeDE9IjExMCIgeTE9IjU1IiAgeDI9IjM0MCIgeTI9IjQwIi8+CiAgICA8bGluZSB4MT0iMTEwIiB5MT0iNTUiICB4Mj0iMzQwIiB5Mj0iOTAiLz4KICAgIDxsaW5lIHgxPSIxMTAiIHkxPSI1NSIgIHgyPSIzNDAiIHkyPSIxNDAiLz4KICAgIDxsaW5lIHgxPSIxMTAiIHkxPSI1NSIgIHgyPSIzNDAiIHkyPSIxNjUiLz4KICAgIDxsaW5lIHgxPSIxMTAiIHkxPSIxMDAiIHgyPSIzNDAiIHkyPSI0MCIvPgogICAgPGxpbmUgeDE9IjExMCIgeTE9IjEwMCIgeDI9IjM0MCIgeTI9IjkwIi8+CiAgICA8bGluZSB4MT0iMTEwIiB5MT0iMTAwIiB4Mj0iMzQwIiB5Mj0iMTQwIi8+CiAgICA8bGluZSB4MT0iMTEwIiB5MT0iMTAwIiB4Mj0iMzQwIiB5Mj0iMTY1Ii8+CiAgICA8bGluZSB4MT0iMTEwIiB5MT0iMTQ1IiB4Mj0iMzQwIiB5Mj0iNDAiLz4KICAgIDxsaW5lIHgxPSIxMTAiIHkxPSIxNDUiIHgyPSIzNDAiIHkyPSI5MCIvPgogICAgPGxpbmUgeDE9IjExMCIgeTE9IjE0NSIgeDI9IjM0MCIgeTI9IjE0MCIvPgogICAgPGxpbmUgeDE9IjExMCIgeTE9IjE0NSIgeDI9IjM0MCIgeTI9IjE2NSIvPgoKICAgIDwhLS0gTDIoNCkgLT4gTDMoNCkgLS0+CiAgICA8bGluZSB4MT0iMzQwIiB5MT0iNDAiICB4Mj0iNTcwIiB5Mj0iMzUiLz4KICAgIDxsaW5lIHgxPSIzNDAiIHkxPSI0MCIgIHgyPSI1NzAiIHkyPSI4NSIvPgogICAgPGxpbmUgeDE9IjM0MCIgeTE9IjkwIiAgeDI9IjU3MCIgeTI9IjM1Ii8+CiAgICA8bGluZSB4MT0iMzQwIiB5MT0iOTAiICB4Mj0iNTcwIiB5Mj0iODUiLz4KICAgIDxsaW5lIHgxPSIzNDAiIHkxPSI5MCIgIHgyPSI1NzAiIHkyPSIxMjAiLz4KICAgIDxsaW5lIHgxPSIzNDAiIHkxPSIxNDAiIHgyPSI1NzAiIHkyPSI4NSIvPgogICAgPGxpbmUgeDE9IjM0MCIgeTE9IjE0MCIgeDI9IjU3MCIgeTI9IjEyMCIvPgogICAgPGxpbmUgeDE9IjM0MCIgeTE9IjE0MCIgeDI9IjU3MCIgeTI9IjE2MCIvPgogICAgPGxpbmUgeDE9IjM0MCIgeTE9IjE2NSIgeDI9IjU3MCIgeTI9IjEyMCIvPgogICAgPGxpbmUgeDE9IjM0MCIgeTE9IjE2NSIgeDI9IjU3MCIgeTI9IjE2MCIvPgoKICAgIDwhLS0gTDMoNCkgLT4gTDQoMikgLS0+CiAgICA8bGluZSB4MT0iNTcwIiB5MT0iMzUiICB4Mj0iNzkwIiB5Mj0iNzUiLz4KICAgIDxsaW5lIHgxPSI1NzAiIHkxPSI4NSIgIHgyPSI3OTAiIHkyPSI3NSIvPgogICAgPGxpbmUgeDE9IjU3MCIgeTE9Ijg1IiAgeDI9Ijc5MCIgeTI9IjEyNSIvPgogICAgPGxpbmUgeDE9IjU3MCIgeTE9IjEyMCIgeDI9Ijc5MCIgeTI9Ijc1Ii8+CiAgICA8bGluZSB4MT0iNTcwIiB5MT0iMTIwIiB4Mj0iNzkwIiB5Mj0iMTI1Ii8+CiAgICA8bGluZSB4MT0iNTcwIiB5MT0iMTYwIiB4Mj0iNzkwIiB5Mj0iMTI1Ii8+CiAgPC9nPgoKICA8IS0tIGFuaW1hdGVkIHNpZ25hbCBwdWxzZXMgdHJhdmVsbGluZyB0aHJvdWdoIHRoZSBuZXR3b3JrIC0tPgogIDxjaXJjbGUgcj0iMi42IiBmaWxsPSIjRTlFMUZGIiBmaWx0ZXI9InVybCgjZ2xvdykiPgogICAgPGFuaW1hdGVNb3Rpb24gZHVyPSIyLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIKICAgICAgcGF0aD0iTTExMCw1NSBMMzQwLDkwIEw1NzAsODUgTDc5MCw3NSIgLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzE7MCIgZHVyPSIyLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgcj0iMi4yIiBmaWxsPSIjQzlCOEZGIiBmaWx0ZXI9InVybCgjZ2xvdykiPgogICAgPGFuaW1hdGVNb3Rpb24gZHVyPSIzLjFzIiBiZWdpbj0iMC42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiCiAgICAgIHBhdGg9Ik0xMTAsMTAwIEwzNDAsMTQwIEw1NzAsMTIwIEw3OTAsMTI1IiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MTswIiBkdXI9IjMuMXMiIGJlZ2luPSIwLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgcj0iMi4yIiBmaWxsPSIjQzlCOEZGIiBmaWx0ZXI9InVybCgjZ2xvdykiPgogICAgPGFuaW1hdGVNb3Rpb24gZHVyPSIyLjlzIiBiZWdpbj0iMS4zcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiCiAgICAgIHBhdGg9Ik0xMTAsMTQ1IEwzNDAsNDAgTDU3MCwzNSBMNzkwLDc1IiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MTswIiBkdXI9IjIuOXMiIGJlZ2luPSIxLjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgoKICA8IS0tIGlucHV0IGxheWVyIC0tPgogIDxnIGZpbHRlcj0idXJsKCNnbG93KSI+CiAgICA8Y2lyY2xlIGN4PSIxMTAiIGN5PSI1NSIgIHI9IjYiIGZpbGw9InVybCgjbm9kZUdyYWQpIi8+CiAgICA8Y2lyY2xlIGN4PSIxMTAiIGN5PSIxMDAiIHI9IjYiIGZpbGw9InVybCgjbm9kZUdyYWQpIi8+CiAgICA8Y2lyY2xlIGN4PSIxMTAiIGN5PSIxNDUiIHI9IjYiIGZpbGw9InVybCgjbm9kZUdyYWQpIi8+CiAgPC9nPgoKICA8IS0tIGhpZGRlbiBsYXllciAxIC0tPgogIDxnIGZpbHRlcj0idXJsKCNnbG93KSI+CiAgICA8Y2lyY2xlIGN4PSIzNDAiIGN5PSI0MCIgIHI9IjUuNSIgZmlsbD0idXJsKCNub2RlR3JhZCkiLz4KICAgIDxjaXJjbGUgY3g9IjM0MCIgY3k9IjkwIiAgcj0iNS41IiBmaWxsPSJ1cmwoI25vZGVHcmFkKSIvPgogICAgPGNpcmNsZSBjeD0iMzQwIiBjeT0iMTQwIiByPSI1LjUiIGZpbGw9InVybCgjbm9kZUdyYWQpIi8+CiAgICA8Y2lyY2xlIGN4PSIzNDAiIGN5PSIxNjUiIHI9IjUuNSIgZmlsbD0idXJsKCNub2RlR3JhZCkiLz4KICA8L2c+CgogIDwhLS0gaGlkZGVuIGxheWVyIDIgLS0+CiAgPGcgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxjaXJjbGUgY3g9IjU3MCIgY3k9IjM1IiAgcj0iNS41IiBmaWxsPSJ1cmwoI25vZGVHcmFkKSIvPgogICAgPGNpcmNsZSBjeD0iNTcwIiBjeT0iODUiICByPSI1LjUiIGZpbGw9InVybCgjbm9kZUdyYWQpIi8+CiAgICA8Y2lyY2xlIGN4PSI1NzAiIGN5PSIxMjAiIHI9IjUuNSIgZmlsbD0idXJsKCNub2RlR3JhZCkiLz4KICAgIDxjaXJjbGUgY3g9IjU3MCIgY3k9IjE2MCIgcj0iNS41IiBmaWxsPSJ1cmwoI25vZGVHcmFkKSIvPgogIDwvZz4KCiAgPCEtLSBvdXRwdXQgbGF5ZXIgLS0+CiAgPGcgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxjaXJjbGUgY3g9Ijc5MCIgY3k9Ijc1IiAgcj0iNi41IiBmaWxsPSJ1cmwoI25vZGVHcmFkKSIvPgogICAgPGNpcmNsZSBjeD0iNzkwIiBjeT0iMTI1IiByPSI2LjUiIGZpbGw9InVybCgjbm9kZUdyYWQpIi8+CiAgPC9nPgoKICA8IS0tIHN1YnRsZSBwdWxzaW5nIHJpbmdzIG9uIG91dHB1dCBub2RlcyB0byBmZWVsICJhbGl2ZSIgLS0+CiAgPGNpcmNsZSBjeD0iNzkwIiBjeT0iNzUiIHI9IjYuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIgdmFsdWVzPSI2LjU7MTQ7Ni41IiBkdXI9IjIuNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNzswOzAuNyIgZHVyPSIyLjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9Ijc5MCIgY3k9IjEyNSIgcj0iNi41IiBmaWxsPSJub25lIiBzdHJva2U9IiNBNzhCRkEiIHN0cm9rZS13aWR0aD0iMSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJyIiB2YWx1ZXM9IjYuNTsxNDs2LjUiIGR1cj0iMi40cyIgYmVnaW49IjEuMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNzswOzAuNyIgZHVyPSIyLjRzIiBiZWdpbj0iMS4ycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2NpcmNsZT4KCiAgPHRleHQgeD0iNDUwIiB5PSIxOTIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM1QjU0NzAiIGxldHRlci1zcGFjaW5nPSIyIj5JTlBVVCAmIzE4MzsgRkVBVFVSRSBFWFRSQUNUSU9OICYjMTgzOyBERVRFQ1RJT048L3RleHQ+Cjwvc3ZnPgo=" />
-</div>
-
-<br/>
+---
 
 ## About
 
-I'm a Computer Science undergraduate at IUBAT, working at the intersection of **computer vision** and **full-stack engineering**. My focus is on deep learning systems that hold up outside the notebook — real datasets, real latency constraints, real deployment.
+I build computer vision models for medical imaging, with a focus on object detection (YOLOv11), and deploy them as working web services.
+I care about evaluation done properly: held-out test sets, per-class metrics, and error analysis.
+I also build the full stack around the models: APIs, dashboards, and front ends.
 
-Most of my recent work is in **medical imaging** — using object detection architectures like YOLOv11 to catch what's easy to miss in scans. I also build the web platforms around that work: APIs, dashboards, and the interfaces people actually use.
+Open to research collaborations, ML engineering roles, and freelance projects.
 
-- 🔭 Currently training and evaluating detection models on medical imaging data
-- 🌱 Learning more about model explainability and deployment at the edge
-- 💬 Open to research collaborations, ML engineering roles, and freelance builds
-- ⚡ Usually reply within 24 hours
+## Featured Projects
 
-<br/>
+| Project | What it does | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **[Project Name]**<br/>Medical image detection | [One-line impact statement], e.g. detects [condition] in [modality] with **[mAP@0.5]**, **[precision]**, **[recall]** on [N] images | YOLOv11, PyTorch, OpenCV | [Code](#) · [Report](#) |
+| **[Project Name]**<br/>Inference API | [One-line impact statement], e.g. FastAPI service serving [model] at **[X] ms** per image, containerized | FastAPI, Docker, GitHub Actions | [Code](#) · [Docs](#) |
+| **[Project Name]**<br/>Live demo | [One-line impact statement], e.g. upload a scan and get annotated predictions in the browser | Hugging Face Spaces, Gradio | [Demo](#) · [Code](#) |
+| **[Project Name]**<br/>Full-stack app | [One-line impact statement], e.g. dashboard for [users] to [action], used by **[N]** people | Next.js, Django, PostgreSQL | [Live](#) · [Code](#) |
 
-## Stack
+## Tech Stack
 
-**AI / ML** — Python &middot; PyTorch &middot; TensorFlow &middot; OpenCV &middot; Hugging Face &middot; scikit-learn<br/>
-**Backend** — Django &middot; FastAPI &middot; PostgreSQL &middot; Docker<br/>
-**Frontend** — Next.js &middot; React &middot; TypeScript &middot; Tailwind CSS<br/>
-**Tools** — Git &middot; GitHub Actions &middot; Vercel &middot; Linux
+**Machine Learning**<br/>
+![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=A78BFA)
+![PyTorch](https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=A78BFA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-24292f?style=flat-square&logo=tensorflow&logoColor=A78BFA)
+![OpenCV](https://img.shields.io/badge/OpenCV-24292f?style=flat-square&logo=opencv&logoColor=A78BFA)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-24292f?style=flat-square&logo=huggingface&logoColor=A78BFA)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
 
-<br/>
+**Backend**<br/>
+![Django](https://img.shields.io/badge/Django-24292f?style=flat-square&logo=django&logoColor=A78BFA)
+![FastAPI](https://img.shields.io/badge/FastAPI-24292f?style=flat-square&logo=fastapi&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=A78BFA)
 
-## Activity
+**Frontend**<br/>
+![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=A78BFA)
+![React](https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=A78BFA)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=A78BFA)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-24292f?style=flat-square&logo=tailwindcss&logoColor=A78BFA)
 
-<div align="center">
+**Tools**<br/>
+![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=A78BFA)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-24292f?style=flat-square&logo=githubactions&logoColor=A78BFA)
+![Vercel](https://img.shields.io/badge/Vercel-24292f?style=flat-square&logo=vercel&logoColor=A78BFA)
+![Linux](https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=A78BFA)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maashg3l4/maashg3l4/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maashg3l4/maashg3l4/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/maashg3l4/maashg3l4/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+## Currently Working On
 
-</div>
+- Training and evaluating YOLOv11 detectors on [dataset / modality], tracking mAP, precision, and recall
+- Model explainability for detection outputs (e.g. Grad-CAM) to support error analysis
+- Packaging models for deployment: ONNX export and a FastAPI inference service
 
-<br/>
+## Contact
 
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maashg3l4&show_icons=true&theme=dark&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=D4D4D8&border_color=27272A&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maashg3l4&layout=compact&theme=dark&bg_color=00000000&title_color=A78BFA&text_color=D4D4D8&border_color=27272A&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*Let's build something worth shipping.*
-
-</div>
+Email: [mohammadsohag1256@gmail.com](mailto:mohammadsohag1256@gmail.com) · Typical reply within 24 hours
