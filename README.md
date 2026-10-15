@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI / ML Engineer</b> · Computer Vision · Medical Imaging<br/>
-  <sub>B.Sc. Computer Science, IUBAT · Sirajganj, Bangladesh (GMT+6)</sub>
+  <sub>B.Sc. Computer Science, IUBAT , Bangladesh (GMT+6)</sub>
 </p>
 
 <p align="center">
