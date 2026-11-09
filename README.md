@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maashg3l4/maashg3l4/main/assets/profile-banner-dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maashg3l4/maashg3l4/main/assets/profile-banner-light.gif">
-    <img src="https://raw.githubusercontent.com/maashg3l4/maashg3l4/main/assets/profile-banner-light.gif" width="100%" alt="Md. Masud Rana — Computer Science, Machine Learning, and Computer Vision">
+    <img src="https://raw.githubusercontent.com/maashg3l4/maashg3l4/main/assets/profile-banner-light.gif" width="100%" alt="Md. Masud Rana — Aspiring AI Engineer, Machine Learning, and Computer Vision">
   </picture>
 
   <p>
@@ -19,11 +19,29 @@
 
 ## Areas of interest
 
+Aspiring AI engineer focused on computer vision and applied machine learning.
+
 | Area | Focus |
 | :-- | :-- |
 | **Computer vision** | Image understanding and object detection |
 | **Medical imaging** | Applying machine learning to medical image analysis |
 | **Reliable ML** | Evaluation, error analysis, and model interpretability |
+
+## Tools & languages
+
+| Category | Technologies |
+| :-- | :-- |
+| **Languages & notebooks** | Python, JavaScript, Jupyter |
+| **Machine learning** | PyTorch, Torchvision, YOLO / Ultralytics |
+| **Apps & inference** | Streamlit, OpenVINO |
+
+*Shown technologies are drawn from the public projects below; they are not proficiency ratings.*
+
+## Selected projects
+
+- [AegisVision](https://github.com/maashg3l4/aegisvision) — Human-in-the-loop steel defect inspection project using PyTorch, YOLO, and Streamlit, with OpenVINO inference.
+- [VisDrone dataset toolkit](https://github.com/maashg3l4/VisDrone-dataset-python-toolkit) — Python toolkit for object-detection training, evaluation, and inference with Torchvision and YOLO.
+- [Machine Learning](https://github.com/maashg3l4/Machine-Learning) — Learning repository documenting machine-learning study and Python practice.
 
 ## Contributions
 
