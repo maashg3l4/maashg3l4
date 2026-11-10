@@ -12,38 +12,41 @@
     <a href="mailto:mohammadsohag1256@gmail.com"><img src="https://img.shields.io/badge/Email-800020?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
-  <sub>B.Sc. in Computer Science, IUBAT · Bangladesh</sub>
+  <p><strong>Curious about how machines see the world.</strong><br>
+  Aspiring AI engineer exploring computer vision and applied machine learning.</p>
+
+  <p><sub>B.Sc. in Computer Science, IUBAT · Bangladesh</sub></p>
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maashg3l4/maashg3l4/main/assets/profile-focus.svg" width="160" height="44" alt="">
+</p>
 
-## Areas of interest
+## 🧭 Focus areas
 
-Aspiring AI engineer focused on computer vision and applied machine learning.
-
-| Area | Focus |
+| Area | What interests me |
 | :-- | :-- |
 | **Computer vision** | Image understanding and object detection |
 | **Medical imaging** | Applying machine learning to medical image analysis |
 | **Reliable ML** | Evaluation, error analysis, and model interpretability |
 
-## Tools & languages
+## 🛠️ Toolkit
 
-| Category | Technologies |
+**Languages & notebooks** · `Python` `JavaScript` `Jupyter`<br>
+**Machine learning** · `PyTorch` `Torchvision` `YOLO / Ultralytics`<br>
+**Apps & inference** · `Streamlit` `OpenVINO`
+
+<sub>Technologies listed here appear in the public projects below; they are not proficiency ratings.</sub>
+
+## 🚀 Selected projects
+
+| Project | What it is |
 | :-- | :-- |
-| **Languages & notebooks** | Python, JavaScript, Jupyter |
-| **Machine learning** | PyTorch, Torchvision, YOLO / Ultralytics |
-| **Apps & inference** | Streamlit, OpenVINO |
+| [**AegisVision**](https://github.com/maashg3l4/aegisvision) | Human-in-the-loop steel defect inspection using PyTorch, YOLO, and Streamlit, with OpenVINO inference. |
+| [**VisDrone dataset toolkit**](https://github.com/maashg3l4/VisDrone-dataset-python-toolkit) | Python toolkit for object-detection training, evaluation, and inference with Torchvision and YOLO. |
+| [**Machine Learning**](https://github.com/maashg3l4/Machine-Learning) | Learning repository documenting machine-learning study and Python practice. |
 
-*Shown technologies are drawn from the public projects below; they are not proficiency ratings.*
-
-## Selected projects
-
-- [AegisVision](https://github.com/maashg3l4/aegisvision) — Human-in-the-loop steel defect inspection project using PyTorch, YOLO, and Streamlit, with OpenVINO inference.
-- [VisDrone dataset toolkit](https://github.com/maashg3l4/VisDrone-dataset-python-toolkit) — Python toolkit for object-detection training, evaluation, and inference with Torchvision and YOLO.
-- [Machine Learning](https://github.com/maashg3l4/Machine-Learning) — Learning repository documenting machine-learning study and Python practice.
-
-## Contributions
+## 📈 Contributions
 
 <div align="center">
   <picture>

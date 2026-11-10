@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="44" viewBox="0 0 160 44" fill="none">
+  <style>
+    @keyframes ripple {
+      0% { opacity: .48; transform: scale(1); }
+      100% { opacity: 0; transform: scale(2.6); }
+    }
+    .pulse {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: ripple 2.4s ease-out infinite;
+    }
+    .pulse-two { animation-delay: .8s; }
+    .pulse-three { animation-delay: 1.6s; }
+    @media (prefers-reduced-motion: reduce) {
+      .pulse { animation: none; opacity: 0; }
+    }
+  </style>
+  <path d="M30 22H130" stroke="#C9B9BE" stroke-width="1.5" stroke-linecap="round"/>
+  <g fill="#C87990">
+    <circle class="pulse" cx="30" cy="22" r="4"/>
+    <circle class="pulse pulse-two" cx="80" cy="22" r="4"/>
+    <circle class="pulse pulse-three" cx="130" cy="22" r="4"/>
+    <circle cx="30" cy="22" r="3"/>
+    <circle cx="80" cy="22" r="3"/>
+    <circle cx="130" cy="22" r="3"/>
+  </g>
+</svg>
