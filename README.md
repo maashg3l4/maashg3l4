@@ -46,6 +46,42 @@
 | [**VisDrone dataset toolkit**](https://github.com/maashg3l4/VisDrone-dataset-python-toolkit) | Python toolkit for object-detection training, evaluation, and inference with Torchvision and YOLO. |
 | [**Machine Learning**](https://github.com/maashg3l4/Machine-Learning) | Learning repository documenting machine-learning study and Python practice. |
 
+## 📊 GitHub analytics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=maashg3l4&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=maashg3l4&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=maashg3l4&theme=default&hide_border=true" width="49%" alt="GitHub contribution streak">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maashg3l4&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maashg3l4&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maashg3l4&theme=github" width="49%" alt="Public GitHub contribution statistics">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maashg3l4&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maashg3l4&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maashg3l4&theme=github" width="100%" alt="Contributions over time on GitHub">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maashg3l4&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maashg3l4&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maashg3l4&theme=github" width="49%" alt="Languages used in public repositories">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maashg3l4&theme=github_dark&utcOffset=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maashg3l4&theme=github&utcOffset=6">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maashg3l4&theme=github&utcOffset=6" width="49%" alt="GitHub activity by time of day">
+  </picture>
+</p>
+
 ## 📈 Contributions
 
 <div align="center">
